@@ -1,6 +1,4 @@
-# Getting Started with React Linting App
-
-Link to the [article on Medium](https://github.com/facebook/create-react-app).
+# Getting Started with React CI/CD App
 
 ## Available Scripts
 
