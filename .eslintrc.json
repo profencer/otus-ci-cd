@@ -24,7 +24,8 @@
     "plugin:react/recommended",
     "plugin:react/jsx-runtime",
     "plugin:prettier/recommended",
-    "plugin:import/react"
+    "plugin:import/react",
+    "plugin:react-hooks/recommended"
   ],
   "plugins": [
     "react",
@@ -54,6 +55,10 @@
         "singleQuote": true
       }
     ],
+    "prefer-const": ["error", {
+      "destructuring": "any",
+      "ignoreReadBeforeAssign": false
+    }],
     "linebreak-style": [
       "error",
       "unix"
