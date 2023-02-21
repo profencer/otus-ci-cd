@@ -59,10 +59,7 @@
       "destructuring": "any",
       "ignoreReadBeforeAssign": false
     }],
-    "linebreak-style": [
-      "error",
-      "unix"
-    ],
+    "linebreak-style": false,
     "quotes": [
       "error",
       "single",
