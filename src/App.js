@@ -2,6 +2,8 @@ import logo from './logo.svg';
 import './App.css';
 import HelloWorld from 'components/HelloWorld';
 
+export const id = (x) => x;
+
 function App() {
   const handler = () => {};
   return (
