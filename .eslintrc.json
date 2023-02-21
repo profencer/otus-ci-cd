@@ -59,7 +59,7 @@
       "destructuring": "any",
       "ignoreReadBeforeAssign": false
     }],
-    "linebreak-style": false,
+    "linebreak-style": 0,
     "quotes": [
       "error",
       "single",
