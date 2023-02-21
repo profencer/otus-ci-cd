@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import HelloWorld from 'components/HelloWorld';
-
+const id = () => {};
 function App() {
   const handler = () => {};
   return (
